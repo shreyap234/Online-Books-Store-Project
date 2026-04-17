@@ -22,8 +22,11 @@ Orders – stores order details (book_id, customer_id, quantity, total amount, d
 
 🔍 Key Features / Queries:
 Retrieve books by genre and published year
-Find total stock and most expensive book
+
+Find total stock and most expensive book 
+
 Analyze customer orders and spending
+
 Calculate total revenue from orders
 Find most frequently ordered book
 Get top-selling genres and authors

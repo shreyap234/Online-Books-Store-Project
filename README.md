@@ -15,7 +15,9 @@ Database Concepts (Tables, Joins, Aggregations)
 The project contains 3 main tables:
 
 Books – stores book details (title, author, genre, price, stock, published year)
+
 Customers – stores customer information (name, city, etc.)
+
 Orders – stores order details (book_id, customer_id, quantity, total amount, date)
 
 🔍 Key Features / Queries:
